@@ -469,6 +469,8 @@ a:focus {
           align-items: flex-end;
   width: 90%;
   margin: auto;
+  
+  
 }
 
 .about_section .box .img_container {
@@ -527,6 +529,8 @@ a:focus {
           flex: 1;
   padding-left: 3%;
   padding-right: 10%;
+ 
+  
 }
 
 .about_section .box .detail-box h2 {
