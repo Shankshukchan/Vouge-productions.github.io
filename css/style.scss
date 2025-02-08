@@ -1,7 +1,7 @@
 $btnColor: #121212;
 $white: #ffffff;
 $black:#000000;
-$primary1: #f0b016;
+$primary1: #86e809;;
 
 @mixin main-font {
   font-family: 'Raleway', sans-serif;
@@ -560,7 +560,7 @@ a:focus {
         align-items: center;
         justify-content: center;
         transform: translate(-50%, -50%);
-        background-color: rgba($color: #e8ad22, $alpha: .9);
+        background-color: rgba($color: #86e809, $alpha: .9);
         border: 5px solid $white;
 
         a {
@@ -659,7 +659,7 @@ a:focus {
       }
 
       h6 {
-        color: #fbb534;
+        color: #86e809;
         text-transform: uppercase;
       }
 
@@ -727,7 +727,7 @@ a:focus {
           font-size: 22px;
 
           span {
-            color: #fbb534;
+            color: #86e809;
           }
         }
 
@@ -743,8 +743,8 @@ a:focus {
 
       &:hover {
         a {
-          border-color: #fbb534;
-          color: #fbb534;
+          border-color: #86e809;
+          color: #86e809;
         }
       }
     }
@@ -791,10 +791,10 @@ a:focus {
     .detail-box {
       h4 {
         text-transform: uppercase;
-        color: #fbb534;
+        color: #86e809;
       }
 
-      h2 {}
+      
 
       a {
         display: inline-block;
@@ -1201,7 +1201,7 @@ a:focus {
 /* footer section*/
 
 .footer_section {
-  background-color: #f0b016;
+  background-color: #86e809;
   display: flex;
   justify-content: center;
   position: relative;
