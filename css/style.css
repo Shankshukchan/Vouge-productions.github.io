@@ -139,7 +139,7 @@ body {
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
-  background-color: #f0b016;
+  background-color: #86e809;
   color: #ffffff;
 }
 
@@ -328,15 +328,15 @@ a:focus {
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box .btn-1 {
   display: inline-block;
   padding: 8px 0;
-  background-color: #f0b016;
-  border: 1px solid #f0b016;
+  background-color: #86e809;
+  border: 1px solid #86e809;
   color: #ffffff;
   border-radius: 5px;
 }
 
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box .btn-1:hover {
   background-color: transparent;
-  color: #f0b016;
+  color: #86e809;
 }
 
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box .btn-2 {
@@ -540,8 +540,8 @@ a:focus {
 .about_section .box .detail-box a {
   display: inline-block;
   padding: 8px 35px;
-  background-color: #f0b016;
-  border: 1px solid #f0b016;
+  background-color: #86e809;
+  border: 1px solid #86e809;
   color: #ffffff;
   border-radius: 5px;
   margin-top: 35px;
@@ -549,7 +549,7 @@ a:focus {
 
 .about_section .box .detail-box a:hover {
   background-color: transparent;
-  color: #f0b016;
+  color: #86e809;
 }
 
 .about_section::before {
@@ -603,7 +603,7 @@ a:focus {
           justify-content: center;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: rgba(232, 173, 34, 0.9);
+  background-color: #87e8098f;
   border: 5px solid #ffffff;
 }
 
@@ -711,7 +711,7 @@ a:focus {
 }
 
 .item_section .item_container .box h6 {
-  color: #fbb534;
+  color: #86e809;
   text-transform: uppercase;
 }
 
@@ -794,7 +794,7 @@ a:focus {
 }
 
 .price_section .price_container .box .detail-box h5 span {
-  color: #fbb534;
+  color: #86e809;
 }
 
 .price_section .price_container .box .detail-box a {
@@ -807,8 +807,8 @@ a:focus {
 }
 
 .price_section .price_container .box:hover a {
-  border-color: #fbb534;
-  color: #fbb534;
+  border-color: #86e809;
+  color: #86e809;
 }
 
 .price_section .price_btn {
@@ -856,7 +856,7 @@ a:focus {
 
 .ring_section .ring_container .detail-box h4 {
   text-transform: uppercase;
-  color: #fbb534;
+  color: #86e809;
 }
 
 .ring_section .ring_container .detail-box a {
@@ -900,7 +900,7 @@ a:focus {
 }
 
 .client_section .box .detail-box h4 {
-  color: #f0b016;
+  color: #86e809;
   position: relative;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -913,7 +913,7 @@ a:focus {
   bottom: 0;
   width: 125px;
   height: 1px;
-  background-color: #f0b016;
+  background-color: #86e809;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
@@ -938,7 +938,7 @@ a:focus {
   top: initial;
   bottom: 0;
   opacity: 1;
-  background-color: #f0b016;
+  background-color: #86e809;
   background-size: 12px;
   background-repeat: no-repeat;
   background-position: center;
@@ -991,7 +991,7 @@ a:focus {
 }
 
 .news_section .box .img-box .date h5 {
-  color: #f0b016;
+  color: #86e809;
   font-weight: bold;
 }
 
@@ -1058,7 +1058,7 @@ a:focus {
   border: none;
   border-radius: 30px;
   color: #fff;
-  background: #f0b016;
+  background: #86e809;
   margin: auto;
   margin-top: 15px;
   font-size: 15px;
@@ -1168,11 +1168,11 @@ a:focus {
 }
 
 .info_section .info-nav ul li:hover::before, .info_section .info-nav ul li.active::before {
-  background-color: #f0b016;
+  background-color: #86e809;
 }
 
 .info_section .info-contact h6 {
-  color: #f0b016;
+  color: #86e809;
   font-size: 18px;
   padding-left: 30px;
 }
@@ -1251,7 +1251,7 @@ a:focus {
 .info_section .info_form form button {
   border: none;
   outline: none;
-  background-color: #f0b016;
+  background-color: #86e809;
   width: 55px;
   font-size: 15px;
   text-transform: uppercase;
@@ -1263,7 +1263,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #f0b016;
+  background-color: #86e809;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
