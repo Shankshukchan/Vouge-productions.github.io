@@ -86,15 +86,15 @@ body {
 }
 
 .hero_area .slick_main .main-img-box.b1 {
-  background-image: url(../images/a-1.jpg);
+  background-image: url(../images/Potrait\ Coporate\ Photo\ 5.jpg);
 }
 
 .hero_area .slick_main .main-img-box.b2 {
-  background-image: url(../images/hero-side-bg2.jpg);
+  background-image: url(../images/Potrait\ Coporate\ Photo\ 2.jpg);
 }
 
 .hero_area .slick_main .main-img-box.b3 {
-  background-image: url(../images/hero-side-bg.jpg);
+  background-image: url(../images/Potrait\ Coporate\ Photo\ 1.jpg);
 }
 
 .sub_page .hero_area {
@@ -118,7 +118,8 @@ body {
 .header_section {
   padding: 10px 0;
   background-color: black;
-  color:white
+  color:white;
+  
 }
 
 .header_section .container-fluid {
@@ -364,6 +365,7 @@ a:focus {
       -ms-flex-align: end;
           align-items: flex-end;
           background-color: #000000;
+          
 }
 
 .slider_section .slider_content .img_container .slick_slider-nav {
@@ -380,7 +382,7 @@ a:focus {
 
 .slider_section .slider_content .img_container .slick_slider-nav .img-box {
   margin-right: 15px;
-  min-width: 100px;
+  max-width: 100px;
 }
 
 .slider_section .slider_content .img_container .slick_slider-nav img {
@@ -858,6 +860,7 @@ a:focus {
   text-transform: uppercase;
   color: #86e809;
 }
+
 
 .ring_section .ring_container .detail-box a {
   display: inline-block;
