@@ -605,7 +605,7 @@ a:focus {
           justify-content: center;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: #87e8098f;
+  background-color: #19240a8f;
   border: 5px solid #ffffff;
 }
 
@@ -1007,10 +1007,11 @@ a:focus {
 }
 
 .contact_section {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/Website/14.png);
   background-size: cover;
   position: relative;
   color: #ffffff;
+  
 }
 
 .contact_section h2 {
