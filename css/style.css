@@ -139,6 +139,7 @@ body {
   text-align: center;
   border-radius: 5px;
 }
+.black{display: none;}
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
   background-color: #86e809;
@@ -540,7 +541,16 @@ a:focus {
 .about_section .box .detail-box p {
   margin-top: 35px;
 }
-
+.btn1{ display: inline-block;
+  padding: 8px 35px;
+  background-color: #86e809;
+  border: 1px solid #86e809;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-top: 35px;}
+  .btn1:hover{ background-color: transparent;
+    color: #86e809;
+  }
 .about_section .box .detail-box a {
   display: inline-block;
   padding: 8px 35px;

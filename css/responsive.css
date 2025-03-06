@@ -4,7 +4,8 @@
   .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item .nav-link {
     margin: 10px;
   }
-
+  .black{display: inline;}
+  .black1{display: none;}
   .custom_nav-container .nav_search-btn {
     background-position: center;
   }
