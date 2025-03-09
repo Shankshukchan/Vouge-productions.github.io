@@ -1385,3 +1385,30 @@ a:focus {
 /* Add some content at the bottom of the video/page */
 
 
+  .btn-outer{
+      position: fixed;
+      bottom: 2%;
+  justify-content: center;
+z-index: 10;}
+
+  .banner-content h1{
+      font-size: 22px;
+      font-weight: 700;
+      
+  }
+  .banner-content p,.banner-content ul,.banner-content ul li{
+      font-size: 12px;
+      list-style: none;
+     
+  }
+  .Btncc {
+      flex-direction: column;
+      
+  }
+  .Btncc button{
+      width: 100%;
+  }
+  .bar{flex-direction: column;
+  font-size: 10px;
+  }
+
