@@ -86,15 +86,15 @@ body {
 }
 
 .hero_area .slick_main .main-img-box.b1 {
-  background-image: url(../images/Potrait\ Coporate\ Photo\ 5.jpg);
+  background-image: url(../images/Potrait\ Coporate\ Photo\ 5.webp);
 }
 
 .hero_area .slick_main .main-img-box.b2 {
-  background-image: url(../images/Potrait\ Coporate\ Photo\ 2.jpg);
+  background-image: url(../images/Potrait\ Coporate\ Photo\ 2.webp);
 }
 
 .hero_area .slick_main .main-img-box.b3 {
-  background-image: url(../images/Potrait\ Coporate\ Photo\ 1.jpg);
+  background-image: url(../images/Potrait\ Coporate\ Photo\ 1.webp);
 }
 
 .sub_page .hero_area {
@@ -637,7 +637,7 @@ a:focus {
 }
 
 .quality_section {
-  background-image: url(../images/quality-bg.jpg);
+  background-image: url(../images/quality-bg.webp);
   background-size: cover;
   color: #ffffff;
   margin-top: -2px;
