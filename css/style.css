@@ -499,7 +499,10 @@ a:focus {
   position: relative;
   
 }
-
+.link1 a{
+  text-decoration: none;
+  color: white;
+}
 .about_section .box .img_container .img-box::before {
   content: "";
   position: absolute;
@@ -1246,6 +1249,15 @@ a:focus {
   color: #000000;
   height: 42.4px;
   padding-left: 15px;
+}
+select{ background-color: #ffffff;
+  border: none;
+  width: 100%;
+  outline: none;
+  color: #000000;
+  height: 42.4px;
+  padding: 0.9rem;
+border-radius: 15rem;
 }
 
 .info_section .info_form form input ::-webkit-input-placeholder {
