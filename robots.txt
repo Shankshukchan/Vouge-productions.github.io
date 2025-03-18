@@ -1,0 +1,12 @@
+
+User-agent: *
+Disallow: 
+Disallow: \Vouge productions\Vouge-productions\js
+Disallow: \Vouge productions\Vouge-productions\images
+Disallow: \Vouge productions\Vouge-productions\css
+Disallow: \Vouge productions\Vouge-productions\.git
+Disallow: \Vouge productions\Vouge-productions\404.html
+Disallow: \Vouge productions\Vouge-productions\about.html
+Disallow: \Vouge productions\Vouge-productions\index.html
+Disallow: \Vouge productions\Vouge-productions\contact.html
+Disallow: \Vouge productions\Vouge-productions\portfolio.html
